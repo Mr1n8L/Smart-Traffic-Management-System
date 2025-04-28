@@ -1,5 +1,6 @@
 # Smart Vehicle Traffic Management System Using IoT and Machine Learning 🚦
 
+```
 smart-traffic-management-system/
 │
 ├── README.md                  # Project overview, setup, usage, contributors
@@ -24,7 +25,7 @@ smart-traffic-management-system/
 └── simulations/
     ├── traffic_simulation.py   # Simulated congestion scenarios
     └── ambulance_test_case.py  # Simulated ambulance approach test
-
+```
 
 ## Problem Statement
 Urban traffic congestion leads to delays, inefficiency, and higher emissions. Our project proposes a smart IoT-based traffic management system integrating real-time data collection and machine learning for dynamic signal control.
