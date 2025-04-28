@@ -8,11 +8,9 @@ venv/
 ENV/
 
 # Model files
-*.h5
 *.tflite
 
 # Images and datasets
-data/
 *.jpg
 *.png
 
