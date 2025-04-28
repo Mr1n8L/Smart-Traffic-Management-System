@@ -1,0 +1,5 @@
+tensorflow==2.12.0
+opencv-python
+flask
+numpy
+picamera[array]  # Only needed if using Raspberry Pi camera
